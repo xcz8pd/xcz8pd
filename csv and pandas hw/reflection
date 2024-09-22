@@ -1,0 +1,21 @@
+#1 What did you learn about working with CSV files and pandas DataFrames in this assignment?
+## I learned how to load a CSV file into a Pandas DataFrame and read it, which is helpful for understanding how the data is sorted and compartmentalized.
+## I also learned how to filter data to make finding specific information more efficient. Instead of sorting through the entire databse, I only had 
+## to sort through the columns that were relevant. Also, I learned how to manipulate and visualize data by sorting it in descending order, grouping certain
+## columns, and using bar graphs and scatter plots to translate the data to something visually comprehensible. These skills are super helpful and will
+## be important for future data analysis projects, as they will enable me to understand data and get answers to specific questions in a much more efficient
+## and streamlined manner.
+
+#2 What was the most challenging aspect of this assignment, and how did you overcome it?
+## I encountered a few difficulties with the code formatting and small technicalities, such as including two sets of brackets when selecting columns 
+## from the database and writing the DataFrame name twice when trying to find players who played over 500 minutes (acc_stats_df[acc_stats_df['MP'] > 500]).
+## The extra credit questions also stumped me a bit, as I didn't know how to find the correlation coefficient. In order to work through the challenges,
+## I experimented with formatting and used the resources available to me to better understand why certain pieces of code are written the way they are.
+
+#3 How do you think the insights gained from analyzing ACC basketball statistics could be applied to other real-world datasets?
+## I think the insights gained from this dataset example could be applied to many other fields and real-world situations. For example, businesses could use
+## their data and information from a database to find valuable information, such as which products were the most popular, information about their customers,
+## the most common method of purchasing, and more. Additionally, learning how to sort, filter, and manipulate data can be extremely valuable for healthcare
+## institutions and systems as they can use code to find information quickly and efficiently from a large dataset. This experience has prepared me for future
+## data science challenges as it has enabled me to understand how to analyze and manipulate data in a way that saves time and energy. It has also implored
+## me to use different resources available to me if I ever become stuck so that I can reach valuable conclusions. 
